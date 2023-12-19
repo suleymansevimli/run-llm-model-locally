@@ -12,7 +12,7 @@ First, install git lfs,
     ```
 
 - Windows,
-    - Go to Git Large File Storage document and follow the steps. 
+    - Go to Git Large File Storage documentation and follow the steps. 
     For `git lfs` documentation [click here](https://git-lfs.com/)
 
 
